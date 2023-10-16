@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Ibrahim-Omeysh
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning python
+- 📫 How to reach me by email : ibrahim.omeysh@gmail.com
